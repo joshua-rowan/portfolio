@@ -5,7 +5,7 @@ export default function Resume() {
     <div>
       <h1>Resume Page</h1>
       <p>
-        This will have a downloadable link to my resume and skills
+        <a href='https://drive.google.com/file/d/1RC1gqrxyLASBSK5LFPfgd0CbUQarlm6u/view?usp=sharing'>Download My Resume</a>
       </p>
     </div>
   );
