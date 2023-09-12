@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <h1>This is the beginning of my header. It will probably by my name.</h1>
       <p>
-        Short intro message here.
+        Does this update to GH Pages automatically?
       </p>
     </header>
   );
