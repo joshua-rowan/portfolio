@@ -3,7 +3,7 @@ import React from 'react';
 export default function Header() {
   return (
     <header>
-      <h1>Joshua Rowan</h1>
+      <h1>Joshua Rowan is Connected!</h1>
     </header>
   );
 }
